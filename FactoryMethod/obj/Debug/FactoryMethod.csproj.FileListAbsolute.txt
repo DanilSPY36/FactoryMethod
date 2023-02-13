@@ -1,0 +1,8 @@
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.SuggestedBindingRedirects.cache
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+P:\Visual Studio 2022\sours\repos\Patterns\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
